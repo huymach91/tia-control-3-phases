@@ -1,0 +1,16 @@
+# TIA Portal temporary, log, cache, and cross-reference folders
+Project1/IM/
+Project1/Logs/
+Project1/TMP/
+Project1/XRef/
+
+# Optional: ignore compiled/binary TIA project files if tracking exported source only
+# Project1/*.ap21
+# Project1/*.info
+# Project1/ProjectInfo.txt
+
+# OS & editor temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
